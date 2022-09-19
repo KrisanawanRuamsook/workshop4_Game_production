@@ -26,6 +26,7 @@ namespace workshop4_02_642110252
 
         protected override void Initialize()
         {
+            //Code 2 by 642110252
             
             base.Initialize();
             //DOne
